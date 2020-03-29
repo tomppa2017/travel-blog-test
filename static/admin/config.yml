@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: tomppa2017/travelbloglivedemo
+  repo: tomppa2017/travel-blog-test
 
 media_folder: static/assets
 public_folder: assets
